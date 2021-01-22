@@ -25,10 +25,9 @@ header h1 {
 	font-size: 250%;
 }
 header nav {
-	margin-top: 1%;
-	margin-left: 36.5%;
+	margin: center;
 	font-family: 'Franklin Gothic', 'demi';
-	display: inline-block;
+	display: flex;
 	font-size: 135%;
 }
 
